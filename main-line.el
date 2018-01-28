@@ -3,6 +3,7 @@
 ;;; Author: Jason Milkins
 ;;; Version: 1.2.8
 ;;; Keywords: statusline / modeline
+;;; License: MIT
 ;;; Url: https://github.com/jasonm23/emacs-mainline
 ;;; Package-Requires: ((cl-lib "0.5"))
 ;;; Changelog:
